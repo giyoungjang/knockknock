@@ -6,6 +6,12 @@
   - 드로이드나이츠의 영상들을 보면서 물론 옛날 앱들을 마이그레이션을 하는 과정을 겪는 회사들도 있었기에, 일단은 compose로 반응형 앱을 만드는 기준점을 두고 무슨 앱을 만들지 찾아보고 있었습니다.
 
 
-## figma
+## figma - Ui
 
 [피그마 링크](https://www.figma.com/design/qHDP0jbsqmy2GClC1Y3vIL/Untitled?node-id=0-1&t=zKGhhkZZQ8tGe6MS-0)
+
+
+## 데이터베이스 - firebase
+
+- 제가 학습하기로는 SQLite나 firebase로 공부를 했었는데 gpt 가 mysql 과 같은 데이터베이스를 사용하기를 권장했었습니다. 그러나 전에 카카오톡 챗봇을 만드는 과정에서 24시간 연동되면 좋겠다는 생각에 서버를 구축하는 과정에서 고난을 겪었던 적이 있어서 대규모 데이터가 필요하지 않을 것이라고 생각하여 firebase로 정하게 되었습니다.
+
