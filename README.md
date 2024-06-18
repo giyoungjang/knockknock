@@ -29,6 +29,11 @@
 - <https://wingsnote.com/226>
 - <https://brunch.co.kr/@sungsiri/34>
 
+## Ux 법칙
+
+- 알아두면 좋은 21 Laws of UX(1) https://brunch.co.kr/@f7413a9d5cff457/29
+- 알아두면 좋은 21 Laws of UX(2) https://brunch.co.kr/@f7413a9d5cff457/30
+
 
 
 ## 느낀점
