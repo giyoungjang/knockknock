@@ -34,6 +34,11 @@
 - 알아두면 좋은 21 Laws of UX(1) https://brunch.co.kr/@f7413a9d5cff457/29
 - 알아두면 좋은 21 Laws of UX(2) https://brunch.co.kr/@f7413a9d5cff457/30
 
+## 딥링크
+
+<img width="766" alt="스크린샷 2024-06-18 오후 9 23 13" src="https://github.com/giyoungjang/knockknock/assets/126555597/bba54d70-b752-4c9f-95a1-f7f9c7d6f50e">
+
+## kotlin 멀티 플랫폼??
 
 
 ## 느낀점
